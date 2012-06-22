@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Main!</string>
+	<string name="app_name">HelloAndroid</string>
+	<string name="btOpenActivity">Open</string>
+	<string name="btOpenActivityForResult">Open for Result</string>
+	<string name="lbClose">Close</string>
+	<string name="btClose">Close</string>
+</resources>
